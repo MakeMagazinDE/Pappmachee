@@ -4,9 +4,9 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Erstaunlich stabil: Pappmaché
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Pappe zu recyclen und daraus haltbare Gegenstände herzustellen, ist einfach und bringt Spaß. Wir zeigen, wie man 3D-Druck mit Pappmaché kombiniert, um nützliche Helfer und kleine Geschenke zu machen.
 
 
 
