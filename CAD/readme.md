@@ -1,3 +1,3 @@
-Stern* sind die Dateien für den 2-teiligen Stern
+Stern_2Teil* sind die Dateien für die zweiteiligen Sternform.
 
-Stern2 für die dreiteilige Form.
+Stern_3Teil* für die dreiteilige Form.
